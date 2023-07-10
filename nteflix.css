@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Netflix;
+    src: url("Fonts/NetflixSans-Regular.otf");
+}
+@font-face {
+    font-family: NetflixMedium;
+    src: url("Fonts/NetflixSans-Medium.otf");
+}
+@font-face {
+    font-family: NetflixLight;
+    src: url("Fonts/NetflixSans-Bold.otf");
+}
+@font-face {
+    font-family: NetflixBold;
+    src: url("Fonts/NetflixSans-Light.otf");
+}
+body{
+    background-image: linear-gradient(to top, 
+    #00000000, #000000d8), linear-gradient(to bottom, 
+    #00000000, #000000d8), url("images/Netflix-Background.jpg");
+    background-size: cover;
+    height: 500px;
+}
+.netflix{
+    height:40px;
+    margin-left:357px;
+    margin-top:15px;
+}
+#Language{
+background-color:black;
+color:white;
+font-size:16px;
+height:40px;
+width:131px;
+border-radius:5px;
+text-align:center;
+font-family:Netflix;
+margin-left:800px;
+}
+.heading{
+    color:white;
+    font-family: NetflixLight;
+    font-weight:bolder;
+    text-align:center;
+    margin-top: 225px;
+    font-size:50px;
+}
+.paragraph1{
+color:white;
+font-size: 19px;
+text-align:center;
+font-family:Netflix;
+}
+.heading1{
+    color:white;
+    font-family: NetflixLight;
+    font-weight:bolder;
+    text-align:center;
+    font-size:50px;
+    margin-top:-40px;
+}
+.paragraph2{
+    color:white;
+    font-family:NetflixBold;
+    text-align:center;
+}

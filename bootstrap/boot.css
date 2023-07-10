@@ -1,0 +1,42 @@
+
+img{
+    height: 100px;
+    
+}
+.scampton{
+    object-fit:cover;
+}
+.BUY{
+    object-fit:cover;
+}
+#deal{
+    color:red;
+    font-weight:bold;
+}
+#listprice{
+    font-weight:lighter;
+ font-size:12px;
+ margin-bottom:-1px;
+}
+#price{
+    font-weight:bold;
+}
+#signin{
+    border-radius:10px;
+    display:block;
+}
+#Deltarune-Title-Art{
+    object-fit:cover;
+}
+#amaxon1{
+    display:inline;
+    font-size:20px;
+}
+#amaxon2{
+    text-decoration:none;
+    color:darkcyan;
+    font-size:20px;
+}
+#amaxon{
+    margin-bottom:20px;
+}
